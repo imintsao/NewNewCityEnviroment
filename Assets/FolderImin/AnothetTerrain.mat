@@ -79,7 +79,7 @@ Material:
     m_Ints: []
     m_Floats:
     - DisplacementAmplitude: 22.12
-    - NoisePersistence: 0.51
+    - NoisePersistence: 0.6
     - NoiseScale: 43.1
     - Occlusion: 0.31
     - PlanetMeshRadius: 15
@@ -98,10 +98,10 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 6.13
-    - _NoiseBaseRoughness: 1.28
-    - _NoiseOctaves: 5.05
-    - _NoiseRoughness: 0.85
-    - _NoiseStrength: 0.9
+    - _NoiseBaseRoughness: 1.2
+    - _NoiseOctaves: 7.84
+    - _NoiseRoughness: 1.29
+    - _NoiseStrength: 1.85
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueOffset: 0
@@ -114,7 +114,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - NoiseOffset: {r: 5.08, g: 4.23, b: 2.09, a: -1.97}
+    - NoiseOffset: {r: 4.27, g: 3.55, b: 4.33, a: -0.71}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

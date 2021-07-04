@@ -102,7 +102,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 3.75
+    - Height: 5.9
     - _AtmosphereThickness: 1
     - _BumpScale: 1
     - _Cutoff: 0.5
